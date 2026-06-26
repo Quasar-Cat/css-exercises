@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-numbered {
+    background-color: #ffa7a7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#No2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#No4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
